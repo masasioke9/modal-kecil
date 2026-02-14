@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "modal-kecil",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "189c9900-8df7-448b-b589-57720089ae1e",
+			"database_name": "modal-kecil"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
